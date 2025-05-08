@@ -1,0 +1,20 @@
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\bin\Debug\Otomasyon_Ödev.exe.config
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\bin\Debug\Otomasyon_Ödev.exe
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\bin\Debug\Otomasyon_Ödev.pdb
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.csproj.AssemblyReference.cache
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.Form1.resources
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.Properties.Resources.resources
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.csproj.GenerateResource.cache
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.csproj.CoreCompileInputs.cache
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.exe
+D:\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.pdb
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\bin\Debug\Otomasyon_Ödev.exe.config
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\bin\Debug\Otomasyon_Ödev.exe
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\bin\Debug\Otomasyon_Ödev.pdb
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.csproj.AssemblyReference.cache
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.Form1.resources
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.Properties.Resources.resources
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.csproj.GenerateResource.cache
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.exe
+C:\Users\ertug\Desktop\Yedek kalan\yedek\algoritma ödev çalışmları\Otomasyon_Ödev\obj\Debug\Otomasyon_Ödev.pdb

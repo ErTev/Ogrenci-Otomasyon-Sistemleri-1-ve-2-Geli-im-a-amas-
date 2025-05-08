@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|c:\\users\\ertug\\desktop\\github paylasilacaklar\\otomasyon_\u00F6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\dan\u0131sman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|solutionrelative:dan\u0131sman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\akademiyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|solutionrelative:akademiyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\ogrenc\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047D99CC-8189-4D45-B3EF-F9157881F334}|Otomasyon_\u00D6dev.csproj|solutionrelative:ogrenc\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ogrenc\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\ogrenc\u0131.cs",
+              "RelativeDocumentMoniker": "ogrenc\u0131.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\ogrenc\u0131.cs",
+              "RelativeToolTip": "ogrenc\u0131.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T06:32:34.116Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dan\u0131sman.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\dan\u0131sman.cs",
+              "RelativeDocumentMoniker": "dan\u0131sman.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\dan\u0131sman.cs",
+              "RelativeToolTip": "dan\u0131sman.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T07:06:55.464Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:43:45.919Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwPUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T12:47:51.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Akademiyen.cs",
+              "DocumentMoniker": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\Akademiyen.cs",
+              "RelativeDocumentMoniker": "Akademiyen.cs",
+              "ToolTip": "C:\\Users\\ertug\\Desktop\\GITHUB PAYLASILACAKLAR\\Otomasyon_\u00D6dev\\Akademiyen.cs",
+              "RelativeToolTip": "Akademiyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:40:46.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
